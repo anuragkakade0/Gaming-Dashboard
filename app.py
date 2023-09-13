@@ -9,11 +9,11 @@ from streamlit_lottie import st_lottie
 
 
 # ---- LOAD ASSETS ----
-img_contact_form = Image.open(r"E:\webpage\images\Golf Game.png")
-img_snake_form = Image.open(r"E:\webpage\images\Game.png")
-img_chess_form = Image.open(r"E:\webpage\images\Chess.png")
-img_snakegame_form = Image.open(r"E:\webpage\images\Snake Game.png")
-img_word_form= Image.open(r"E:\webpage\images\Word Game.png")
+img_contact_form = Image.open(r"Golf Game.png")
+img_snake_form = Image.open(r"Game.png")
+img_chess_form = Image.open(r"Chess.png")
+img_snakegame_form = Image.open(r"Snake Game.png")
+img_word_form= Image.open(r"Word Game.png")
 
 # --- Game Links ---
 chess_link= "https://pmp-p.github.io/pygame-pychess-wasm/index.html"
