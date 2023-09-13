@@ -61,7 +61,7 @@ def login():
             
                 """)
         with right_column:
-            with open(r'E:\webpage\gaming.json') as source:
+            with open(r'gaming.json') as source:
                 gaming=json.load(source)
             st_lottie(gaming, height=400)
             
